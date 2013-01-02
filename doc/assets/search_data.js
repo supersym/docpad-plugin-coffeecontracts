@@ -1,0 +1,1 @@
+window.searchData = [{"t":"CoffeeContractsPlugin","p":"classes/CoffeeContractsPlugin.html"},{"t":"contracts.plugin.coffee","p":"files/contracts.plugin.coffee.html"},{"t":"module.exports","p":"files/contracts.plugin.coffee.html#module.exports-file","h":"contracts.plugin.coffee"},{"t":"README.md","p":"README.md.html"}]
